@@ -1,0 +1,32 @@
+# Atividade Prática L.P - Catalógo de Países
+Este é um sistema de catálogo de países, desenvolvido em Python para a matéria de Linguagem de Programação, ministrada pelo professor Jivago Medeiros, no curso de Sistemas de Informação da Universidade Federal de Mato Grosso.
+
+## Desenvolvido por Fã Clube Cleiton Rasta
+- 202511316025 - Guilherme Magalhães Moraes de Souza
+- 202511316027 - Gustavo Anibal Pinheiro da Silva
+
+## O que é este arquivo
+Esse arquivo servirá tanto como uma documentação geral do projeto, tanto quanto um relatório de todo o processo de desenvolvimento deste projeto.
+
+Ele será composto assim:
+ - uma seção *Changelog* que registrará todos os passos do projeto, sejam eles definições de arquitetura, pesquisas realizadas, ou mudanças no código.
+ exemplo:
+> - [07-02-2026 / Guilherme] Refatoração do código de leitura do arquivo de dados
+>    - Por acordo mútuo, decidimos utilizar a biblioteca Pandas para extração e leitura dos arquivos...
+
+ - uma seção *Fontes de Pesquisa* que registrará todas as fontes de pesquisa utilizadas para a realização do projeto.
+ exemplo:
+> - [Sintaxe básica de escrita e formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- uma seção *Como utilizar* que irá ensinar e demonstrar a utilização do programa.
+exemplo:
+> - Para visualizar as informações de um país, digite `pais visualizar {ID do País}`
+
+## Changelog
+- [07-02-26 / Guilherme] Inicialização do repositório e criação do README.md
+    - Criei o repositório e adicionei o arquivo `README.md` que servirá como registro e relatório do projeto. Já escrevi em Markdown algumas vezes, mas tive que me referir a documentação do GitHub pra ter uma ajudinha de como escrever algumas coisas. 
+
+## Fontes de Pesquisa
+- [Sintaxe básica de escrita e formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Como utilizar
