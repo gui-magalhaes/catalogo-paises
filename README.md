@@ -25,8 +25,11 @@ exemplo:
 ## Changelog
 - **[07-02-26 / Guilherme]** Inicialização do repositório e criação do README.md
     - Criei o repositório e adicionei o arquivo `README.md` que servirá como registro e relatório do projeto. Já escrevi em Markdown algumas vezes, mas tive que me referir a documentação do GitHub pra ter uma ajudinha de como escrever algumas coisas. 
+- **[07-02-26 / Guilherme]** Criação do gitignore com um arquivo de exemplo
+    - Criei o arquivo gitignore que define todos os arquivos de ambiente locais que não devem ser enviados ao repositório. Peguei um arquivo pronto para projetos Python, disponibilizado pelo GitHub.
 
 ## Fontes de Pesquisa
 - [Sintaxe básica de escrita e formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [github - A collection of .gitignore templates](https://github.com/github/gitignore/tree/main)
 
 ## Como utilizar
