@@ -47,6 +47,9 @@ exemplo:
 - **[07-02-2026 / Guilherme]** Criado arquivo de repositório dos países
     - Foi criado um arquivo de repositório para os países, contendo métodos de cadastro, consulta e exclusão de países, criando e atualizando automaticamente os arquivos .txt de banco de dados. Utilizei bastante a referência da documentação do Python sobre input/output escrevendo e lendo em arquivos, e também a documentação oficial do método `open()` pra entender alguns comportamentos padrões.
     - Para conter esse arquivo, foi criado o módulo "services", responsável pelas regras de negócio do código.
+- **[07-02-2026 / Guilherme]** Criado arquivo de service para os países
+    - Foi criado um arquivo de service para o gerenciamento dos países. É ele que vai ser utilizado pela interface para interagir com o banco de dados, de forma tratada e limpa para separar corretamente as responsabilidades.
+    - No geral ele só pega e repassa pros métodos do repositório mesmo, mas pode ser útil colocar validações dos dados talvez?
 
 ## Fontes de Pesquisa
 - [Sintaxe básica de escrita e formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
