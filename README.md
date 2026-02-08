@@ -37,11 +37,12 @@ exemplo:
         - População
         - Gentílico
         - Língua Oficial
-
-
+- **[07-02-06 / Guilherme]** Criar classe de model para País
+    - Criei um arquivo com uma classe dataclass que representa um país. Primeiro eu tinha só feito uma classe simples, mas ai pesquisei na documentação e vi que uma Data Class seria mais adequado.
 
 ## Fontes de Pesquisa
 - [Sintaxe básica de escrita e formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [github - A collection of .gitignore templates](https://github.com/github/gitignore/tree/main)
+- [https://docs.python.org/pt-br/3/library/dataclasses.html](https://docs.python.org/pt-br/3/library/dataclasses.html)
 
 ## Como utilizar
