@@ -44,10 +44,15 @@ exemplo:
         - `[id],[nome_comum],[nome_oficial],[capital],[populacao],[gentilico],[lingua_oficial]`
         - `1,"China","República Popular da China",1414163974,"Chinês","Mandarim"`
     - *OBS: O controle dos códigos será feito de forma que, se um código já foi utilizado, ele nunca mais será utilizado novamente* 
+- **[07-02-2026 / Guilherme]** Criado arquivo de repositório dos países
+    - Foi criado um arquivo de repositório para os países, contendo métodos de cadastro, consulta e exclusão de países, criando e atualizando automaticamente os arquivos .txt de banco de dados. Utilizei bastante a referência da documentação do Python sobre input/output escrevendo e lendo em arquivos, e também a documentação oficial do método `open()` pra entender alguns comportamentos padrões.
+    - Para conter esse arquivo, foi criado o módulo "services", responsável pelas regras de negócio do código.
 
 ## Fontes de Pesquisa
 - [Sintaxe básica de escrita e formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [github - A collection of .gitignore templates](https://github.com/github/gitignore/tree/main)
 - [dataclasses — Data Classes — Documentação Python 3.14.3](https://docs.python.org/pt-br/3/library/dataclasses.html)
+- [open() — Built-in Function — Documentação Python 3.14.3](https://docs.python.org/3/library/functions.html#open)
+- [7. Input and Output — Documentação Python 3.14.3](https://docs.python.org/3/tutorial/inputoutput.html#)
 
 ## Como utilizar
