@@ -39,6 +39,10 @@ exemplo:
         - Língua Oficial
 - **[07-02-06 / Guilherme]** Criar classe de model para País
     - Criei um arquivo com uma classe dataclass que representa um país. Primeiro eu tinha só feito uma classe simples, mas ai pesquisei na documentação e vi que uma Data Class seria mais adequado.
+- **[07-02-06 / Guilherme, Gustavo]** Definido como armazenaremos os dados
+    - Definimos como vamos armazenar esses dados. Será num arquivo .txt, que conterá todas as informações separadas por vírgula, na ordem dos campos definidos no model, por exemplo:
+        - `[nome_comum],[nome_oficial],[capital],[populacao],[gentilico],[lingua_oficial]`
+        - `"China","República Popular da China",1414163974,"Chinês","Mandarim"`
 
 ## Fontes de Pesquisa
 - [Sintaxe básica de escrita e formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
