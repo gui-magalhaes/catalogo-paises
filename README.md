@@ -47,6 +47,6 @@ exemplo:
 ## Fontes de Pesquisa
 - [Sintaxe básica de escrita e formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [github - A collection of .gitignore templates](https://github.com/github/gitignore/tree/main)
-- [https://docs.python.org/pt-br/3/library/dataclasses.html](https://docs.python.org/pt-br/3/library/dataclasses.html)
+- [dataclasses — Data Classes — Documentação Python 3.14.3](https://docs.python.org/pt-br/3/library/dataclasses.html)
 
 ## Como utilizar
