@@ -13,9 +13,14 @@ Recebe a opção selecionada pelo usuário no menu e entra no teste condicional
 para selecionar a ação desejada
 
 """
-while(opcao != 0):
+while opcao != 0:
+    limpa()
     match opcao:
         case 1:
+            """
+             Realiza o cadastro do país de acordo com as informações passadas pelo usuário
+             e de acordo com os parâmetros da função
+            """
             nome_comum = input("Informe o nome comum do país ")
             nome_oficial= input("Informe o nome oficial país ")
             capital = input("Informe a capital do país ")
@@ -25,10 +30,6 @@ while(opcao != 0):
             cadastrar_pais(nome_comum,nome_oficial,capital,populacao,
                                         gentilico,lingua_oficial)
             print("País cadastrado com sucesso ")
-            """
-             Realiza o cadastro do país de acordo com as informações passadas pelo usuário
-             e de acordo com os parâmetros da função
-            """
         case 2:
             """
             Realiza a busca do país que o usuário deseja deletar, de acordo com o id informado,
@@ -69,11 +70,20 @@ while(opcao != 0):
                 print("Nenhum país cadastrado. ")
             else:
                 exibir_paises(paises)
+        case 5:
+            """
+            Mostra os créditos
+            """
+            print("Fã Clube Cleiton Rasta")
+            print("202511316025 - Guilherme Magalhães Moraes de Souza")
+            print("202511316027 - Gustavo Anibal Pinheiro da Silva")
         case 0:
             print("Saindo do programa ")
         case _:
             print("Opção inválida ")
-    if(opcao!= 0):
+    if opcao != 0:
+        input("Digite ENTER para continuar")
+        limpa()
         opcao = menu()
         
     
