@@ -1,6 +1,8 @@
 # Atividade Prática L.P - Catalógo de Países
 Este é um sistema de catálogo de países, desenvolvido em Python para a matéria de Linguagem de Programação, ministrada pelo professor Jivago Medeiros, no curso de Sistemas de Informação da Universidade Federal de Mato Grosso.
 
+Caso não esteja vendo isso no GitHub, você pode acessar a página do repositório e ver todos os commits e versões [clicando aqui.](https://github.com/gui-magalhaes/catalogo-paises)
+
 ## Desenvolvido por Fã Clube Cleiton Rasta
 - 202511316025 - Guilherme Magalhães Moraes de Souza
 - 202511316027 - Gustavo Anibal Pinheiro da Silva
